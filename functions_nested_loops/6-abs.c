@@ -2,7 +2,7 @@
 
 /**
  * _abs - This programme computes the absolute value of an integer
- * @r: An integre input
+ * @n: An integre input
  *
  * Return: Absolut value of number n.
  */
