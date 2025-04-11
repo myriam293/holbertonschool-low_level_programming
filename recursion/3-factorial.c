@@ -1,7 +1,6 @@
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
-#include “main.h”
 
 /**
  * factorial - A function that returns the
