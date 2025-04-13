@@ -9,7 +9,7 @@
  *
  * Return: natural square root, or -1 if none
  */
-int _sqrt(int x, int n); // Function prototype for _sqrt
+int _sqrt(int x, int n); /* Function prototype for _sqrt */
 
 /**
  * _sqrt_recursion - Function that returns the square root of n.
